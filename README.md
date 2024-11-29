@@ -48,14 +48,17 @@ Tools Used- Python Libraries:
 
 
 
-Power BI Dashboards
-1. Summary Dashboard Overview
-   
- 2  - Displays stock prices and trading volumes with customizable time periods.
-3. Look Price Dashboard:
-   - Market share distribution and growth indicators.
-3.Daily Return Dashboard:
-   - Tracks daily stock performance and analyzes market volatility.
+Power BI Dashboard
+1. Summary Dashboard 1 Overview
+   ![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-09-28.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-09-28.jpg)
+ Displays stock prices and trading volumes with customizable time periods.
+2. Look Price Dashboard 2 Overview
+  ![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-09-49.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-09-49.jpg)
+   Market share distribution and growth indicators.
+3.Daily Return Dashboard 3,4  Overview
+![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-10-11.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-10-11.jpg)
+![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-10-19.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-10-19.jpg)
+   Tracks daily stock performance and analyzes market volatility.
 
 
 
