@@ -1,5 +1,8 @@
-![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-27-28.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-27-28.jpg)
 Stock Market Data Analysis Project
+
+
+![https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-27-28.jpg](https://github.com/Shazem-hany/Stock-Market-Project/blob/main/photo_2024-11-29_23-27-28.jpg)
+
 
  Project Overview
 This project aims to analyze the historical stock market data of the top 10 companies using tools like Python and Power BI to extract valuable insights and support investment decisions.
@@ -63,6 +66,7 @@ Power BI Dashboard
 
 
 Conclusion
+
 This project emphasizes the importance of data analysis in understanding financial market dynamics and making informed investment decisions. Using statistical tools and visualization techniques, it provides actionable insights for investors and analysts.
 
 
