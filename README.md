@@ -14,8 +14,7 @@ This project aims to analyze the historical stock market data of the top 10 comp
 
 
  Project Steps
-1. Data Collection:
-  
+1. Data Collection
 2. Data Cleaning:
    - Address inconsistent date formats.
    - Remove symbols such as dollar signs.
@@ -50,9 +49,10 @@ Tools Used- Python Libraries:
 
 
 Power BI Dashboards
-1. Summary Dashboard:
-   - Displays stock prices and trading volumes with customizable time periods.
-2. Look Price Dashboard:
+1. Summary Dashboard Overview
+   
+ 2  - Displays stock prices and trading volumes with customizable time periods.
+3. Look Price Dashboard:
    - Market share distribution and growth indicators.
 3.Daily Return Dashboard:
    - Tracks daily stock performance and analyzes market volatility.
@@ -65,18 +65,10 @@ This project emphasizes the importance of data analysis in understanding financi
 
 
 Team Members
-- Fatma Ahmed Hassan:
-  - Data Cleaning
-  - Data Visualization in Python
-  - Creating Dashboards and Insights
-  - Preparing Reports and Presentations
 
--Shazem Hany Ghariany:
-  - Data Cleaning
-  - Data Visualization in Python
-  - Creating Dashboards and Insights
-  - Preparing Reports and Presentations
-
+-Fatma Ahmed Hassan
+-Shazem Hany Ghariany
+ 
 
 
 Useful Links
